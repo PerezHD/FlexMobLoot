@@ -1,0 +1,8 @@
+name: FlexMobLoot
+version: 1.5
+author: PerezHD
+main: com.flexprison.FlexMobLoot.Main
+description: A plugin that chances if a creeper will drop double its death amount.
+commands:
+  fml:
+    description: The main command.
